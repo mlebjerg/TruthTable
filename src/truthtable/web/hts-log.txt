@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Oct 2018 18:05:30 at http://web.stanford.edu/class/cs103/tools/truth-table-tool/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://web.stanford.edu/class/cs103/tools/truth-table-tool/ -O1 "C:\Users\Mikkel Ebjerg\Desktop\truthtable\truthtable" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:05:31	Warning: 	Note: due to web.stanford.edu remote robots.txt rules, links beginning with these path will be forbidden: /~folutade/ATI/, /~neubank/Eubank_EthnicityNetworksPaper.pdf, /~neubank/Eubank_EthnicityNetworksPaper2016.pdf, /dept/soc/people/rsandefur/ (see in the options to disable this)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 9 links scanned, 8 files written (36424 bytes overall) [39114 bytes received at 13038 bytes/sec], 4.5 requests per connection
+(No errors, 1 warnings, 0 messages)
